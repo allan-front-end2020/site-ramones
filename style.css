@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    box-sizing: border-box;
+
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.historia{
+    color: white;
+    margin: 51px;
+    text-align: center;
+    margin-bottom: 101px;
+}
+
+.joeyramone{
+ display: flex;
+ margin: 35px;
+}
+.textojoey{
+    width: 50%;
+    text-align: center;
+    margin: 95px;
+   }
+.imagem-joey {
+    width: 341px;
+    height: 477px;
+}
+.johnnyramone{
+    display: flex;
+}
+.deedeeramone{
+    display: flex;
+}
+.markyramone{
+    display: flex;
+}
